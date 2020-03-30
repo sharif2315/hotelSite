@@ -2,8 +2,8 @@ from django.db import models
 
 
 property_type = (
-    ('S', "sale"),
-    ('R', "rent"),
+    ('Sale', "sale"),
+    ('Rent', "rent"),
 )
 
 # Create your models here.
